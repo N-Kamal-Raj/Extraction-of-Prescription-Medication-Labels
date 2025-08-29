@@ -2,16 +2,6 @@
 
 This repository contains a Python-based Optical Character Recognition (OCR) model specifically designed for analyzing drug prescriptions. It leverages the `paddleocr` library to extract text from images of prescriptions, which can then be used for various applications such as data entry, automated checks, or further analysis.
 
-## **Table of Contents**
-
-*   **Introduction**
-*   **Features**
-*   **Installation**
-*   **Usage**
-*   **Example Output**
-*   **Contributing**
-*   **License**
-
 ## **Introduction**
 
 Accurate and efficient extraction of information from drug prescriptions is crucial in healthcare. This project aims to provide a reliable OCR solution to automate the process of reading prescription details, reducing manual errors and improving workflow efficiency.
